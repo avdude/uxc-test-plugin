@@ -85,7 +85,7 @@ class UXC_Test_Updater {
 					'rating'						=> '100.0',
 					'num_ratings'				=> '10823',
 					'downloaded'				=> '14249',
-					'added'							=> '2016-01-05',
+					'added'							=> '2016-10-21',
 					'version'			=> $this->github_response['tag_name'],
 					'author'			=> $this->plugin["AuthorName"],
 					'author_profile'	=> $this->plugin["AuthorURI"],
