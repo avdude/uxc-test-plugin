@@ -8,7 +8,7 @@
 /*
 	Plugin Name: UXC Test Plugin
 	Description: This is for updating your Wordpress plugin.
-	Version: 1.2.1
+	Version: 1.2.2
 	Author: David Fleming
 	Author URI: http://www.avude.com
 */
